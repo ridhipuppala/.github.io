@@ -10,7 +10,7 @@ screenshot:
   srcset:
     1920w:    /assets/img/project/arms.jpg
     960w:     /assets/img/project/arms.jpg
-    480w:     /assets/img/project/graspman.png
+    480w:     /assets/img/project/arms.jpg
 
 featured:     true
 #accent_color: '#ee682a'
