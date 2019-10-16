@@ -1,0 +1,48 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign show_collection = page.show_collection | default:"projects" %}
+{% assign ordered_projects = site[show_collection] | sort:"date" | reverse %}
+
+{% assign projects_group_by = site.data.strings.date_formats.projects_group_by | default:"%Y" %}
+
+<!--Major Projects-->
+<h2>Major Projects</h2>
+
+{% for project in ordered_projects %}
+  {% assign currentdate = project.date | date:projects_group_by %}
+  {% if forloop.last %}<div class="columns">{% endif %}
+
+  {% assign featured = page.featured | default:project.featured | default:page.big_project | default:project.big_project %}
+
+    {% if featured %}
+    <div class="column column-1">
+      {% include pro/project-card.html project=project featured=featured %}
+    </div>
+    {% endif %}
+
+  {% if forloop.last %}</div>{% endif %}
+{% endfor %}
+
+<!--Other Projects-->
+<h2>Other Projects</h2>
+
+{% for project in ordered_projects %}
+
+{% assign currentdate = project.date | date:projects_group_by %}
+{% if forloop.first %}<div class="columns">{% endif %}
+
+
+{% assign coupros = page.coupro | default:project.coupro | default:page.big_project | default:project.big_project %}
+
+  {% if coupros == true %}
+  <div class="column column-1-2">
+    {% include pro/project-card.html project=project featured=featured %}
+  </div>
+  {% endif %}
+
+{% if forloop.last %}</div>{% endif %}
+{% endfor %}

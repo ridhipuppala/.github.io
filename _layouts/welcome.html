@@ -1,0 +1,10 @@
+---
+layout: about
+---
+{% assign strings = site.data.strings %}
+
+{% assign separator = page.content_separator | default:"<!--more-->" %}
+{% assign content_split = content | split:separator %}
+
+{{ content_split[0] }}
+
