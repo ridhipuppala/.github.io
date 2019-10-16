@@ -13,8 +13,8 @@ screenshot:
     480w:     /assets/img/project/arms.jpg
 
 featured:     true
-#accent_color: '#ee682a'
-#accent_image: /assets/img/sidebar-bg.jpg
+accent_color: '#ee682a'
+accent_image: /assets/img/sidebar-bg.jpg
 ---
 
 In the summer of 2019, I worked as research intern at the Autonomous Robots and Multi-robot Systems ([A.R.M.S.](http://www.sc.iitb.ac.in/robotics/index.html)) Lab which is a part of the Systems and Control Engineering Department at IIT Bombay. Main objective of the work was to develop and test a reactive controller for globally convergent navigation in the presence of convex obstacles. This work was done in collaboration with Arun G.K. pursing PhD at ARMS Lab, and supervised by Prof. Leena Vachhani.

@@ -9,9 +9,10 @@ image: /assets/img/project/ddp.jpg
 screenshot:
  src: /assets/img/project/ddp.jpg
  srcset:
- 1920w: /assets/img/project/ddp.jpg
- 960w: /assets/img/project/ddp.jpg
- 480w: /assets/img/project/ddp.jpg
+    1920w: /assets/img/project/ddp.jpg
+    960w: /assets/img/project/ddp.jpg
+    480w: /assets/img/project/ddp.jpg
+
 featured: true
 accent_color: '#ee682a'
 accent_image: /assets/img/sidebar-bg.jpg
