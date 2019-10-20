@@ -52,7 +52,7 @@ In this position, I was responsible to manage a team of more than 20 members and
 
 *August 2018*
 
-I have been actively involved with mentoring the newer team members and leaders. My brief stint with manipulator design teams was a refreshing experience and helped me recollect my design concepts and CAD skills, and become a better mechanical engineer. Being part of the teams for more than two years shaped me into a robotics enthusiast and paved way for my deep interest in Control and Robotics research. The team groomed me into a better team player, leader, manager and engineer. More importantly, the team served as a platform to connect with like minded people, develop deep rooted friendships which later transformed into a family.
+I have been actively involved with mentoring the newer team members and leaders. My brief stint with manipulator design teams was a refreshing experience and helped me recollect my design concepts and CAD skills, and become a better mechanical engineer. Being part of the teams for more than two years shaped me into a robotics enthusiast and paved way for my deep interest in Control and Robotics research. The team groomed me into a better team player & engineer, and an empathetic leader. More importantly, the team served as a platform to connect with like minded people, develop deep rooted friendships which later transformed into a family.
 
 ## Rovers
 
