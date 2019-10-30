@@ -48,9 +48,9 @@ Code for the project can be found [here](https://github.com/ridhipuppala/Acutus)
 
 ## Publications
 
-**Puppala, R.**; Sivadasan, N.; Vyas, A.; Molawade, A.; Ranganathan, T. and Thondiyath, A. (2019). **Design, Estimation of Model Parameters, and Dynamical Study of a Hybrid Aerial-underwater Robot: Acutus**.In *Proceedings of the 16th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO,* ISBN 978-989-758-380-3, pages 423-430. DOI: 10.5220/0007926104230430 ([LINK](https://www.scitepress.org/PublicationsDetail.aspx?ID=Ip/KMp55lqw=&t=1))
+**Puppala, R.**; Sivadasan, N.; Vyas, A.; Molawade, A.; Ranganathan, T. and Thondiyath, A. (2019). **Design, Estimation of Model Parameters, and Dynamical Study of a Hybrid Aerial-underwater Robot: Acutus**.In *Proceedings of the 16th International Conference on Informatics in Control, Automation and Robotics - Volume 2: ICINCO,* ISBN 978-989-758-380-3, pages 423-430. DOI: 10.5220/0007926104230430 [[SCITEPRESS](https://www.scitepress.org/PublicationsDetail.aspx?ID=Ip/KMp55lqw=&t=1)]
 
-Abhijeet Vyas, Akshay Molawade, Nikhil Sivadasan, **Ridhi Puppala**, Thiyagarajan Ranganathan and Asokan Thondiyath (2019). **Estimation of hydrodynamic parameters and its effects on novel hybrid Aerial-Underwater robot –Acutus**. In Proceedings of MTS/IEEE OCEANS 2019, Marseilles, France (June 17-20 2019)
+Abhijeet Vyas, Akshay Molawade, Nikhil Sivadasan, **Ridhi Puppala**, Thiyagarajan Ranganathan and Asokan Thondiyath (2019). **Modelling and Dynamic Analysis of a Novel Hybrid Aerial – Underwater Robot - Acutus**. In Proceedings of MTS/IEEE OCEANS 2019, Marseilles, France (June 17-20 2019) [[IEEE](https://ieeexplore.ieee.org/document/8867419)]
 
 ## Euro Trip
 
