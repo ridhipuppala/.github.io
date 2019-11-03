@@ -2,7 +2,7 @@
 layout:       project
 date:         30 Nov 2018
 title:        In-house Junker test setup development
-caption:      Course Project
+caption:      Summer Intern (Industry R&D)
 description:  >
   R&D Intern at Bajaj Auto Ltd. mentored by Manoj Kumar Sharma
 image:        /assets/img/project/bajaj.jpeg
