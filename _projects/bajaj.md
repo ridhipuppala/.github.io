@@ -4,7 +4,7 @@ date:         30 Nov 2018
 title:        In-house Junker test setup development
 caption:      Course Project
 description:  >
-  Design of Machine Elements (Course) and Prof. Ram Kumar (Guide)
+  R&D Intern at Bajaj Auto Ltd. mentored by Manoj Kumar Sharma
 image:        /assets/img/project/bajaj.jpeg
 screenshot:
   path:       /assets/img/project/bajaj.jpeg
