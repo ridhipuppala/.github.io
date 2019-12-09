@@ -14,12 +14,12 @@ Acutus, a hybrid aerial-underwater robot was my first experience of research. De
 
 **Here's a list of research topics that fascinate me:**
 
-* Multi-agent/robot systems, Autonomous and intelligent robots, Hybrid Systems
-* Distributed coordination, localization, coverage control for networked systems
-* Reactive navigation, Motion and Path Planning, Perception for autonomy 
-* Design, System Modelling, Controller synthesis for robots (Aerial, Marine and Ground)
+* Multi-agent/robot systems, Networked control systems, 
+* Distributed coordination, coverage, consensus for networked robotics
+* Reactive navigation, Motion and Path Planning, Perception for autonomous robots 
+* Applications of Reinforcement learning, Optimization, Nonsmooth analysis, Systems theory to multi-robot systems
 
-To summarize, I love to solve fundamental research problems in Robotics using concepts of nonlinear systems, control theory and mathematics by employing rigororous methods for proving solutions. Academic coursework, abundant research experience and extensive involvement with co-curricular robotics activities have motivated me to pursue graduate study and research after my graduation from IIT Madras. 
+To summarize, I love to solve fundamental research problems in Robotics and interlligent control systems using concepts of systems theory, control theory, learning theory, optimziation and other mathematical tools like graph & set theory by employing rigorous methods for proving solutions. Academic coursework, abundant research experience and extensive involvement with co-curricular robotics activities have motivated me to pursue graduate study and research after my graduation from IIT Madras. 
 
 
 
