@@ -2,26 +2,23 @@
 layout: homepage
 title: Ridhi Puppala
 description: >
-  Keywords of my Life: Robots, Control, Stability, Research, Technology, Family, Movies, Music 
+  Keywords: Robotics, Controls, Machine Learning, Computer Vision, Technology, Space, Family, Movies, Music 
 image: /assets/img/circle.jpg
 hide_description: true
 
 ---
 
-I am Ridhi Puppala, a final year student at Indian Institute of Technology Madras (IIT Madras) pursuing an Interdisciplinary Dual Degree Robotics program (B.Tech in Mechanical Engineering and M.Tech in Robotics). Over the years at IIT Madras, I have developed a deep interest towards Robotics and Control theory. 
+I am Ridhi Puppala, a final year student at Indian Institute of Technology Madras (IIT Madras) pursuing an Interdisciplinary Dual Degree Robotics program (B.Tech in Mechanical Engineering and M.Tech in Robotics). Over the years at IIT Madras, I have developed a deep interest towards Robotics, Controls, Vision, Machine Learning and related areas.
 
-Acutus, a hybrid aerial-underwater robot was my first experience of research. Design optimization and performance evaluvation of RoBuoy - underwater glider was my next undergraduate research project at Robotics Lab, IIT Madras. Both of these research projects were advised by [Prof. Asokan Thondiyath](https://ed.iitm.ac.in/~asokan/). During the summer of 2019, I was a research intern at The Autonomous Robots and Multi-robot Systems Lab (ARMS Lab) , IIT Bombay supervised by [Prof. Leena Vachhani](http://www.sc.iitb.ac.in/~leena/). I developed a simple yet efficient reactive controller for global navigation using minimal sensor information by exploiting concepts of nonlinear systems, sliding mode control, geometry and perception. Currently, I am working on my Master's thesis on the topic of Distributed coordination, control and stabilization for fomations of multi robot systems at the Dynamics and Control Lab situated in Electrical Engineering department of IIT Madras. Thesis is supervised by [Prof. Arun D. Mahindrakar](http://www.ee.iitm.ac.in/~arun_dm/). Particularly, I am trying to develop a unified framework to include features like connectivity, collision avoidance, robusteness against communication failures or agent deregistration, formation stabilization under practical comminication and sensor constraints  in Multi robot formations.
+**Here's a list of areas that fascinate me:**
 
-**Here's a list of research topics that fascinate me:**
+* Broad theortical areas: Robotics, Control theory, Systems theory, Computer Vision, Convex Optimization, Machine Learning, Algorithms
+* Specific areas: Simultaneous localization and mapping (SLAM), Reinforcement Learning, Deep Learning for Vision, Nonsmooth dynamical analsysis, Graph theory, Algorithms in Perception and Planning, Motion Planning, Trajectory generation, Adaptive Control, State Estimation, Sensor Fusion
+* Application areas: Mobile Robots (Ground, Aerial, Underwater), Multi-robot and Networked Systems, Autonomous Systems, Driverless Cars, Field and Service Robots, Guidance and Navigation for autonmous systems
 
-* Multi-agent/robot systems, Networked control systems, 
-* Distributed coordination, coverage, consensus for networked robotics
-* Reactive navigation, Motion and Path Planning, Perception for autonomous robots 
-* Applications of Reinforcement learning, Optimization, Nonsmooth analysis, Systems theory to multi-robot systems
+To summarize, I love to solving fundamental problems in Robotics and Interlligent/autonomous systems using theortical concepts and other mathematical tools. I am not only restricted to theory, but also actively implement and validate algorithms that forge autonomy, intelligence and self-sufficiency in robots. I have extensively used simulations and physical experiments in the field of robotics and controls. Extensive engagment with Robotics through academic coursework, projects, internships, research and co-curricular activities have motivated me to pursue a career in Robotics. 
 
-To summarize, I love to solve fundamental research problems in Robotics and interlligent control systems using concepts of systems theory, control theory, learning theory, optimziation and other mathematical tools like graph & set theory by employing rigorous methods for proving solutions. Academic coursework, abundant research experience and extensive involvement with co-curricular robotics activities have motivated me to pursue graduate study and research after my graduation from IIT Madras. 
-
-
+**I am actively looking for opportunities in the fields of Robotics, Computer Vision, Automatic Control, Machine Learning and other relate areas. I am open to positions as an Engineering, R&D or Research roles in the above specified fields.**
 
 ### Take a look at my [CV](/assets/RidhiPuppala_CV.pdf).
 
