@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Hello visitor! I am Ridhi Puppala, a final year student of IIT Madras pursuing an iInterdisciplinary Dual Degree, B.Tech in Mechanical Engineering and M.Tech in Robotics. 
+    Hello visitor! I am Ridhi Puppala, a final year student of IIT Madras pursuing an Interdisciplinary Dual Degree, B.Tech in Mechanical Engineering and M.Tech in Robotics. 
   # This photo will be used in the about section
   picture:
     path:            /assets/img/prof.jpg
