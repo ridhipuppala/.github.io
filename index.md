@@ -12,7 +12,7 @@ I am Ridhi Puppala, a final year student at Indian Institute of Technology Madra
 
 **Here's a list of areas that fascinate me:**
 
-* Broad theortical areas: Robotics, Control theory, Systems theory, Computer Vision, Optimization, Machine Learning, Algorithms
+* Broad theoretical areas: Robotics, Control theory, Systems theory, Computer Vision, Optimization, Machine Learning, Algorithms
 * Specific areas: Simultaneous localization and mapping (SLAM), Reinforcement Learning, Deep Learning for Vision, Nonsmooth dynamical analsysis, Nonlinear Control, Adaptive Control, State Estimation, Sensor Fusion, Graph theory, Algorithms in Perception and Planning, Motion Planning 
 * Application areas: Mobile Robots (Ground, Aerial, Underwater), Multi-robot and Networked Systems, Autonomous Systems, Driverless Cars, Field and Service Robots, Guidance and Navigation for autonmous systems
 
